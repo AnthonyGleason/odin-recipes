@@ -1,0 +1,41 @@
+/* Homepage styles */
+.hp-background{
+    background-color: rgba(192, 207, 105, 0.3);
+}
+.hp.chef{
+    height: auto;
+    width: 500px;
+}
+.hp.cookies,
+.hp.coconut-pie,
+.hp.strawberry-pie{
+    height: auto;
+    width:300px;
+}
+.hp.desserts-header,
+.hp.title{
+    font-weight:bold;
+}
+.hp.desserts-header{
+    font-size:25px;
+}
+.hp.list{
+    font-size:15px;
+}
+
+.hp.title{
+    font-size:35px;
+}
+/* Coconut cream pie webpage styles */
+.coconut-background{
+    background-color: rgba(197, 224, 77, 0.3);
+}
+/* Cookies webpage styles */
+.cookies-background{
+    background-color: rgba(116, 52, 23, 0.3);
+}
+
+/* Strawberry webpage styles */
+.strawberry-background{
+    background-color: rgba(255,0,0,0.3);
+}
