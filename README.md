@@ -1,6 +1,6 @@
 #  Project: Recipes
 ## About
-<p>This website was created as apart of The Odin Project's HTML foundations course. As I finish the course this project will be updated to apply the new skills I learned in each lesson.
+<p>This website was created as apart of The Odin Project's Recipes project.
 </p>
 <img src=img/chef.jpg>
 
